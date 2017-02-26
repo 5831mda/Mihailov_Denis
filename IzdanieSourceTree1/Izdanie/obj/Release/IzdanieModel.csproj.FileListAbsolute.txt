@@ -1,0 +1,5 @@
+D:\Download\Izdanie\Izdanie\bin\Release\Izdanie.exe.config
+D:\Download\Izdanie\Izdanie\bin\Release\Izdanie.exe
+D:\Download\Izdanie\Izdanie\bin\Release\Izdanie.pdb
+D:\Download\Izdanie\Izdanie\obj\Release\Izdanie.exe
+D:\Download\Izdanie\Izdanie\obj\Release\Izdanie.pdb

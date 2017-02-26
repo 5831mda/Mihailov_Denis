@@ -1,0 +1,20 @@
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\nunit.framework.dll
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\nunit.framework.xml
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\obj\Debug\IzdanieModel.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\GurkBurk.dll
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\NBehave.Gherkin.dll
+C:\Users\Dench\Desktop\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\NBehave.Narrator.Framework.dll
+C:\Users\Dench\Desktop\100%_labs\100% рабочая по НТВП\Izdanie1\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\100%_labs\100% рабочая по НТВП\Izdanie1\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\100%_labs\100% рабочая по НТВП\Izdanie1\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Mikhailov\IzdanieSourceTree\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\Mikhailov\IzdanieSourceTree\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Mikhailov\IzdanieSourceTree\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\DenisMikhLabs\IzdanieSourceTree\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\DenisMikhLabs\IzdanieSourceTree\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\DenisMikhLabs\IzdanieSourceTree\Izdanie\obj\Debug\Izdanie.pdb

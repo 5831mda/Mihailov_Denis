@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\Новые техгологии\лаб 1\Izdanie\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Anna\Desktop\Новые техгологии\лаб 1\Izdanie\Izdanie\obj\Debug\Izdanie.csprojResolveAssemblyReference.cache
+C:\Users\Anna\Desktop\Новые техгологии\лаб 1\Izdanie\Izdanie\bin\Debug\Izdanie.exe
+C:\Users\Anna\Desktop\Новые техгологии\лаб 1\Izdanie\Izdanie\bin\Debug\Izdanie.pdb
+C:\Users\Anna\Desktop\Новые техгологии\лаб 1\Izdanie\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Anna\Desktop\Новые техгологии\лаб 1\Izdanie\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie\Izdanie\bin\Debug\Izdanie.exe.config
+C:\Users\Dench\Desktop\Izdanie\Izdanie\obj\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Izdanie\Izdanie\obj\Debug\Izdanie.pdb
+C:\Users\Dench\Desktop\Izdanie\Izdanie\obj\Debug\Izdanie.csprojResolveAssemblyReference.cache
+C:\Users\Dench\Desktop\Izdanie\Izdanie\bin\Debug\Izdanie.exe
+C:\Users\Dench\Desktop\Izdanie\Izdanie\bin\Debug\Izdanie.pdb
+D:\Download\Izdanie\Izdanie\bin\Debug\Izdanie.exe.config
+D:\Download\Izdanie\Izdanie\obj\Debug\Izdanie.exe
+D:\Download\Izdanie\Izdanie\obj\Debug\Izdanie.pdb
