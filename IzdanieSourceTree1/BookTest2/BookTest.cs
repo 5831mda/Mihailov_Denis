@@ -3,10 +3,18 @@ using IzdanieModel;
 
 namespace BookTestClass
 {
+    [TestFixture]
     public class TestBook
     {
         [Test]
-        public void TestBookInform()
+        [TestCase("fairy tales", "ivanov", "F.D", "DROFA", "Phisics", "Kemerovo", 2017, 234, true,
+            "ivanov, F.D. DROFA : Phisics / F.D. ivanov. – Kemerovo : fairy tales, 2017. – 234 с. ",
+            TestName = "правильная строка")]
+        [TestCase("fairy tales", "ivanov", "F.D", "DROFA", "Phisics", "Kemerovo", 2017, 234, false,
+            "ivanov, F.D. DROFA : Phisics/F.D. ivanov. – Kemerovo : fairy tales, 2017. – 234 с. ",
+            TestName = "неправильная строка")]
+        public void TestBookInform(string nameIz, string surname, string initials, string title, string oblast, string city,
+            int year, int page, bool shouldEquals, string inform)
         {
             var testBook = new Book();
             testBook.Nameiz = "fairy tales";
@@ -17,13 +25,15 @@ namespace BookTestClass
             testBook.City = "Kemerovo";
             testBook.Year = 2017;
             testBook.Page = 234;
-            //testBook.Number = 334;
-
-            Assert.AreEqual("ivanov, F.D. DROFA : Phisics / F.D. ivanov. – Kemerovo : fairy tales, 2017. – 234 с. ",
-                testBook.Inform);
-            Assert.AreNotEqual("ivanov, F.D. DROFA : Phisics / F.D. ivanov. – Kemerovo : fairy tales, 2017. – 234с. ",
-                testBook.Inform);
-
+            if (shouldEquals)
+            {
+                Assert.AreEqual(inform, testBook.Inform);
+            }
+            else
+            {
+                Assert.AreNotEqual(inform, testBook.Inform);
+            }
         }
     }
 }
+
